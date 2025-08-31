@@ -23,4 +23,4 @@ It allows you to manage tasks interactively in the console.
 ## 💻 How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/MeghPatel-007/todo-list.git
+git clone https://github.com/MeghPatel-007/To-Do-List.git
